@@ -11,3 +11,6 @@
 - React splide.
 - React hot toast.
 - React lodash.
+
+## Credits
+Design took from @JSSTACK 
