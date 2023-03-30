@@ -13,4 +13,4 @@
 - React lodash.
 
 ## Credits
-Design took from @JSSTACK 
+Design took from @JSSTACK and developed by <a href="https://github.com/Lord-Mugen">Lord Mugen<a/>
