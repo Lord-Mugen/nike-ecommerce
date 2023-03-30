@@ -47,7 +47,7 @@ const Navbar = () => {
       >
         <nav className="flex items-center justify-between nike-container">
           <div className="flex items-center">
-            <a href="">
+            <a href="https://nike-ecommerce-lord-mugen.vercel.app/">
               <img
                 src={logo}
                 alt="logo/img"
